@@ -1,0 +1,52 @@
+DO NOT ADD OR DELETE ANY LINES UNTIL "---" 
+
+PART 1
+1. Currency Names:
+MXN: Mexican Peso
+BRL: Brazilian Real
+HUF: Hungarian Forint
+KRW: South Korean Won
+ZAR: South African Rand
+NZD: New Zealand Dollar
+AED: United Arab Emirates Dirham
+USD: United States Dollar
+
+2. AED
+3. 1
+4. HUF
+5. -0.8929023718680573
+6. No answer (save and commit your csv file)
+7. No answer (be sure your created and committed a .gitignore)
+
+PART 2
+8. 1998.0785714285714
+9. 81.32142857142857
+10. -0.5532736224514798
+11a. 88.31914893617021
+11b. 72.73529411764706
+11c. 50.833333333333336
+12. No answer (save and commit your csv file)
+
+----
+
+PART 3
+Free Response 
+You can add lines BELOW as needed to sufficiently answer the requested questions.
+No not add or delete lines ABOVE the "---"
+
+13. I explored the youtube api
+
+14. https://developers.google.com/youtube/v3/docs
+
+15. 3
+
+16. 1. get api key from console.cloud.google.com
+    2. figure out what you want to find
+    3. put the api key into your commit
+    4. run the code
+
+17. I found the first 10 videos of mr beast. got the title, date posted, and views
+
+18. Adam Gao
+
+19. No answer (save and commit your csv file)
