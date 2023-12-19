@@ -1,5 +1,8 @@
 
 
+import matplotlib
+matplotlib.use("Agg")  # Use the "Agg" backend for Matplotlib
+
 
 
 #Performance Trends Over Time: How have the key performance indicators (like points, assists, rebounds, etc.) of MVP candidates evolved over the years? Are there discernible trends in the statistics of top players?
