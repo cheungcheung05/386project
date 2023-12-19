@@ -4,9 +4,12 @@ import matplotlib
 matplotlib.use("Agg")  # Use the "Agg" backend for Matplotlib
 
 
+#1Trends in Performance Metrics Over Time: Line graphs showing the average of key stats like points, assists, and rebounds per year.
+#2Player Appearances and Dominance: A bar chart to display the frequency of appearances in the top 10 MVP candidates list for the most frequent candidates.
+#3Team Success Correlation: A scatter plot showing the relationship between team success (win-loss record) and MVP candidacy.
+#4Positional Analysis Over Time: A line graph showing the distribution of MVP candidates by position over the years.
+#5Age Distribution of MVP Candidates: A histogram to analyze the age distribution of MVP candidates.
 
-#Performance Trends Over Time: How have the key performance indicators (like points, assists, rebounds, etc.) of MVP candidates evolved over the years? Are there discernible trends in the statistics of top players?
-import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the CSV data into a DataFrame
