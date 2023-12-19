@@ -14,7 +14,7 @@ USD: United States Dollar
 2. AED
 3. 1
 4. HUF
-5. -0.8929023718680573
+5. -0.28
 6. No answer (save and commit your csv file)
 7. No answer (be sure your created and committed a .gitignore)
 
@@ -22,9 +22,9 @@ PART 2
 8. 1998.0785714285714
 9. 81.32142857142857
 10. -0.5532736224514798
-11a. 88.31914893617021
+11a. 55.99
 11b. 72.73529411764706
-11c. 50.833333333333336
+11c. 121.45
 12. No answer (save and commit your csv file)
 
 ----
