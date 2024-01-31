@@ -1,0 +1,66 @@
+PIPELINES
+
+Part (2)
+(c) Training MSE: 1.54
+(d) Test MSE: 1.75 
+(e) Your answer: 0.11
+
+
+Part (3)
+(b) 
+Feature 1: x0 x2 (coef: 147.6)
+Feature 2: x2 (coef: -146.6)
+Feature 3: x1 (coef: -37.2)
+
+(c) 
+Feature 1: x0 (coef: -0.08)
+Feature 2: x3^2 (coef: 0.07)
+Feature 3: x4^2 (coef: 0.04)
+
+(d) y-intercept: 11.6 
+
+Part (4) 
+(c1) Best hyperparameters: 
+* strategy: mean
+* poly degree: 1
+* n neighbors: 15
+* weight: distance
+(c2) Best MSE: -2.01
+(d) Time: 1 minute 45 seconds
+(f) test MSE: 2.1 
+(g) Your answer: No
+
+Part (5) - (Repeat of part (4))
+(c1) Best hyperparameters: 
+* strategy: mean
+* poly degree: 1
+* n neighbors: 10
+* weight: distance
+(c2) Best MSE: -2.05
+(d) Time: 4
+(f) test MSE: 1.75 
+(g) Your answer: No
+(h) Your answer: They both bring relatively similar results, with RandomizedSearchCV being much faster than GrdSearchCV.
+
+Part (6) 
+(b1) Training MSE: 7.932936716529455e-13
+(b2) Test MSE: 1.4623776711365377 
+(c) Your answer: Yes. The Test MSE lower. 
+
+Part (7) 
+(b) Your answer: Pipelines make machine learning workflow much easier and can clean up data for proper analysis. It can also reduce 
+errors within the data to run proper regression analysis. 
+
+Part (8) 
+(b) Upload your CSV.  Make sure the file is named "predictions.csv", that there is only one column in the file, and there is NO header.
+
+GRADIENT DESCENT
+(c) 
+beta_0: 4.85
+beta_1: -0.26
+beta_2: -0.09
+beta_3: -0.3
+beta_4: 0.28
+
+(d) Your answer: The gradient boosting betas are super close to the normal equation betas. However, the gradient boosting 
+betas are a bit tighter and closer to 0 which is a sign of a more accurate model.
