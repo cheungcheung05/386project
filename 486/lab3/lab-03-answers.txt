@@ -1,0 +1,16 @@
+2.
+(b) 1e-06
+(c) 1.754 
+(d) 147.564
+(e) 0
+
+3.
+(b) 0.00988
+(c) 1.976 
+(d) 2.409
+(e) 18
+
+4.
+(a) Ridge seems to do a better job because it has a lower MSE. However, if we wanted to perform feature selection, Lasso may be more appropriate.
+(b) Despite having higher test MSE, the regularized models offer better generalization performance as they prevent overfitting by penalizing large coefficients.
+Regularized models strike a balance between bias and variance, leading to better performance on unseen data compared to unregularized models, as evident from the lower test MSE in Ridge and Lasso models despite higher training MSE.
